@@ -8,7 +8,8 @@ int main()
     int totwt=0;
 	int totta=0;
     float awt,ata;
-    char pn[10][10],t[10];
+    char pn[10][10];
+	char t[10];
    
     printf("\t\tEnter the number of process:");
     printf("\n");
