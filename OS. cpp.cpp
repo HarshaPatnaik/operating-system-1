@@ -5,7 +5,8 @@ int main()
 {
 	
     int et[20],at[10],n,i,j,temp,st[10],ft[10],wt[10],ta[10];
-    int totwt=0,totta=0;
+    int totwt=0;
+	int totta=0;
     float awt,ata;
     char pn[10][10],t[10];
    
