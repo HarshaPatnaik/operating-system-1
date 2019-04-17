@@ -17,7 +17,6 @@ int main()
     for(i=0; i<n; i++)
     {
         printf("\tEnter process No. | Arrival time | Burst time:\n");
-        
         scanf("%s%d%d",pn[i],&at[i],&et[i]);
     }
     for(i=0; i<n; i++)
