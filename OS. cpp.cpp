@@ -11,7 +11,7 @@ int main()
     char pn[10][10];
 	char t[10];
    
-    printf("\t\tEnter the number of process:");
+    printf("\t\t Enter the number of process:");
     printf("\n");
     scanf("%d",&n);
     for(i=0; i<n; i++)
